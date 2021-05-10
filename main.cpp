@@ -13,7 +13,7 @@ using namespace std::chrono;
 double se;
 double expc; //expectation
 double K=100.0;
-double T=2.00;
+double T=1.00;
 double r=0.1;
 double q=0;
 double sigma=0.2;
